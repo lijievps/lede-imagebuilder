@@ -1,0 +1,4 @@
+/lib/modules/4.4.92/ip_tables.ko
+/lib/modules/4.4.92/x_tables.ko
+/etc/modules.d/nf-ipt
+/lib/modules/4.4.92/nf_reject_ipv4.ko

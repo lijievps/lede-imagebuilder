@@ -1,0 +1,8 @@
+Package: luci-mod-admin-full
+Version: git-18.118.20919-cfba791-1
+Depends: libc, luci-base
+Source: feeds/luci/modules/luci-mod-admin-full
+Section: luci
+Architecture: mips_24kc
+Installed-Size: 76914
+Description:  LuCI Administration - full-featured for full control

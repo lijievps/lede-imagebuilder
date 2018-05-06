@@ -1,0 +1,9 @@
+Package: kmod-ipt-ipset
+Version: 4.4.92-1
+Depends: kernel (=4.4.92-1-45d282495a15974d60f8edb091d0e2a9), kmod-ipt-core, kmod-nfnetlink
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Architecture: mips_24kc
+Installed-Size: 105696
+Description:  IPset netfilter modules

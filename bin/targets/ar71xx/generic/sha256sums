@@ -1,0 +1,9 @@
+9477296484e6c247530870d89f6a5515aa950bcec77a0fc86556947fc6810c68 *lede-17.01.4-ar71xx-generic-device-wndr3800.manifest
+e54b0079fb7174cb09b90dedb31c8aa5d31e0c2731e0fa0288f2419fdbbc4bb8 *lede-17.01.4-ar71xx-generic-root.squashfs
+fa3cfb855624a25a439ff5d2fcc8a3689a8812c891fca21307f53c6fa723e72b *lede-17.01.4-ar71xx-generic-uImage-lzma.bin
+fec136c991f7abd2ecad14d5634c427bdef70a9ef9632a483e9f151406b5cc10 *lede-17.01.4-ar71xx-generic-vmlinux-lzma.elf
+7142abe58b9e2767d4f952ae3bb9fdc7f90eca74e68f37f2d3406b166d175c19 *lede-17.01.4-ar71xx-generic-vmlinux.bin
+06faa802d92489b7ab1236925e3248dc74d6e027845ad2a199ab2d95b0b78703 *lede-17.01.4-ar71xx-generic-vmlinux.elf
+f832c07c41f33e0c2cd0a07b88f062a04ae59d63105fae9283904f1c57e28fd3 *lede-17.01.4-ar71xx-generic-vmlinux.lzma
+50ed9b4dc50cc06337b84d274de39e0884ed381aa9f59793af3e8835b3aa0810 *lede-17.01.4-ar71xx-generic-wndr3800-squashfs-factory.img
+c6190fa94845333ae959bc76f87317c86c8c1b16011dc67799af298e1722dafc *lede-17.01.4-ar71xx-generic-wndr3800-squashfs-sysupgrade.bin

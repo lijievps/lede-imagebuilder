@@ -1,0 +1,9 @@
+Package: kmod-ath9k-common
+Version: 4.4.92+2017-01-31-3
+Depends: kernel (=4.4.92-1-45d282495a15974d60f8edb091d0e2a9), kmod-ath
+Source: package/kernel/mac80211
+Section: kernel
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips_24kc
+Installed-Size: 125855
+Description:  Atheros 802.11n wireless devices (common code for ath9k and ath9k_htc)

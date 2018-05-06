@@ -1,0 +1,9 @@
+Package: kmod-nf-nat
+Version: 4.4.92-1
+Depends: kernel (=4.4.92-1-45d282495a15974d60f8edb091d0e2a9), kmod-nf-conntrack, kmod-nf-ipt
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Architecture: mips_24kc
+Installed-Size: 12648
+Description:  Netfilter NAT

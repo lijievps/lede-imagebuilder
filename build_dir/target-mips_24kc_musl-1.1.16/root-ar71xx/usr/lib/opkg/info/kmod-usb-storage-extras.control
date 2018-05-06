@@ -1,0 +1,10 @@
+Package: kmod-usb-storage-extras
+Version: 4.4.92-1
+Depends: kernel (=4.4.92-1-45d282495a15974d60f8edb091d0e2a9), kmod-usb-storage
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Architecture: mips_24kc
+Installed-Size: 29665
+Description:  Say Y here if you want to have some more drivers,
+ such as for SmartMedia card readers

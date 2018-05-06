@@ -1,0 +1,11 @@
+Package: kmod-ipt-filter
+Version: 4.4.92-1
+Depends: kernel (=4.4.92-1-45d282495a15974d60f8edb091d0e2a9), kmod-ipt-core, kmod-lib-textsearch, kmod-ipt-conntrack
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Architecture: mips_24kc
+Installed-Size: 1063
+Description:  Netfilter (IPv4) kernel modules for packet content inspection
+ Includes:
+ - string
